@@ -1,0 +1,23 @@
+﻿빌드 시작: 2018-10-25 오후 5:00:23
+2 노드의 "C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Calculator\Calculator.vcxproj" 프로젝트(Build 대상)입니다.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Calculator.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Calculator.cpp CalculatorDlg.cpp CalculatorHistoryDlg.cpp
+  Calculator.cpp
+  CalculatorDlg.cpp
+  CalculatorHistoryDlg.cpp
+ResourceCompile:
+  C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IRelease\ /nologo /fo"Release\Calculator.res" Calculator.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Release\Calculator.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Release\Calculator.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Release\Calculator.lib" /MACHINE:X86 /SAFESEH Release\Calculator.res
+  Release\Calculator.obj
+  Release\CalculatorDlg.obj
+  Release\CalculatorHistoryDlg.obj
+  Release\stdafx.obj
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  Calculator.vcxproj -> C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Release\Calculator.exe
+"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Calculator\Calculator.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:15.69

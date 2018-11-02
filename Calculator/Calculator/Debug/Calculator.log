@@ -1,0 +1,16 @@
+﻿빌드 시작: 2018-10-25 오후 2:31:23
+2 노드의 "C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Calculator\Calculator.vcxproj" 프로젝트(Build 대상)입니다.
+ResourceCompile:
+  C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\Calculator.res" Calculator.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Debug\Calculator.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Debug\Calculator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Debug\Calculator.lib" /MACHINE:X86 Debug\Calculator.res
+  Debug\Calculator.obj
+  Debug\CalculatorDlg.obj
+  Debug\CalculatorHistoryDlg.obj
+  Debug\stdafx.obj
+  Calculator.vcxproj -> C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Debug\Calculator.exe
+"C:\Users\feng9\documents\visual studio 2013\Projects\Calculator\Calculator\Calculator.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.09
